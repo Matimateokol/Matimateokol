@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateusz-kołacz-52999418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateusz-kołacz-52999418b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/mathewkolacz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mathewkolacz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mateodanon55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mateodanon55" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mateuszkolacz201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mateuszkolacz201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
