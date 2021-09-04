@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A passionate backend developer and mobile apps designer in training. Currently as a student of Informatics and Econometrics at University of Gdansk I am following the path of "IT Apps in Business" specialty. I am interested in any topics associated with AI, data-driven solutions, computer graphics and mobile apps/games development. Here is some info about me...</h3>
+<h3 align="center">A passionate fullstack developer and mobile apps designer in training. Currently as a student of Informatics and Econometrics at University of Gdansk I am following the path of "IT Apps in Business" specialty. I am interested in any topics associated with AI, data-driven solutions, computer graphics and mobile apps/games development. Here is some info about me...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matimateokol&label=Profile%20views&color=0e75b6&style=flat" alt="matimateokol" /> </p>
 
