@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ShopAssistant](https://github.com/Matimateokol/ShopAssistant.git)
 
-- 🌱 I’m currently learning **Java, Kotlin, Spring, Hibernate**
+- 🌱 I’m currently learning **Java, Python, Spark**
 
 - 📫 How to reach me **mateuszkolacz2019@gmail.com**
 
