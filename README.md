@@ -22,3 +22,5 @@
 
 ![](https://raw.githubusercontent.com/Matimateokol/github-stats-generator/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Matimateokol/github-stats-generator/master/generated/languages.svg#gh-dark-mode-only)
+
+Stats generated with : https://github.com/joiellantero/github-stats
