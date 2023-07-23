@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A passionate fullstack developer and mobile apps designer in training. Currently as a student of Informatics and Econometrics at University of Gdansk I am following the path of "IT Apps in Business" specialty. I am interested in any topics associated with AI, data-driven solutions, computer graphics and mobile apps/games development. Here is some info about me...</h3>
+<h3 align="center">A passionate self-proclaimed fullstack developer and mobile apps designer. I'm currently grinding programming experience while working as Junior Java Developer and developing personal projects. I'm opened to any kind of cooperation - if you have some interesting project in mind feel free to contact me. I'm interested in any topics associated with modern technologies such as AR/VR, AI, data-driven solutions, advanced computer graphics, mobile apps/games development, blockchain, highly responsive web applications and etc.. Here is some info about me...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matimateokol&label=Profile%20views&color=0e75b6&style=flat" alt="matimateokol" /> </p>
 
-- 🔭 I’m currently working on [ShopAssistant](https://github.com/Matimateokol/ShopAssistant.git)
+- 🔭 I’m currently working as a Java Junior Developer for [Soldevelo](https://www.linkedin.com/company/soldevelo-sp--z-o-o-/mycompany/verification/)
 
-- 🌱 I’m currently learning **Java, Hibernate, Spring**
+- 🌱 I’m currently improving my knowledge of **Java, Hibernate, Spring, React and Docker**
 
 - 📫 How to reach me **mateuszkolacz2019@gmail.com**
 
