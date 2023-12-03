@@ -48,8 +48,9 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-![](https://github.com/Matimateokol/github-stats-generator/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Matimateokol/github-stats-generator/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Matimateokol/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Matimateokol/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 Stats generated with : https://github.com/joiellantero/github-stats
 
