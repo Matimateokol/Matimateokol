@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A passionate self-proclaimed fullstack developer and mobile apps designer. I'm currently grinding programming experience while working as Junior Java Developer and developing personal projects. I'm opened to any kind of cooperation - if you have some interesting project in mind feel free to contact me. I'm interested in any topics associated with modern technologies such as AR/VR, AI, data-driven solutions, advanced computer graphics, mobile apps/games development, blockchain, highly responsive web applications and etc.. Here is some info about me...</h3>
+<h3 align="center">A passionate self-proclaimed fullstack developer. "(NTI) No Things Impossible" is my motto which helps me keeping myself motivated in this volatile and dynamic times. I'm opened to any kind of cooperation - if you have some interesting project in mind then feel free to contact me! I'm interested in any topics associated with modern technologies such as AR/VR, AI/ML, Big Data, IoT, data-driven solutions, advanced computer graphics, interactive mobile apps/games development, responsive web applications and whatever makes people happier around the world. Here is some info about me...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matimateokol&label=Profile%20views&color=0e75b6&style=flat" alt="matimateokol" /> </p>
 
-- 🔭 I’m currently working on personal projects.
-
-- 🌱 I’m currently improving my knowledge and skills in usage of **Java, Hibernate, Spring, React and Docker**
+- 🌱 I’m currently pursuing MSc Degree in Computer Science (Artificial Intelligence) at Warsaw University of Technology. Planned finish date: 02/2026.
 
 - 📫 How to reach me **mateuszkolacz2019@gmail.com** or LinkedIn profile: https://www.linkedin.com/in/mateusz-kołacz-52999418b/
 
